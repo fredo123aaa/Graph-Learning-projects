@@ -3,6 +3,10 @@
 Projects developed during Graph Learning courses.  
 This repository demonstrates applications of various graph algorithms and learning methods, such as graph embeddings, diffusion processes, graph neural networks (GNNs), clustering on graphs, PageRank, and graph energy concepts.
 
+<p align="center">
+  <img src="imageFolder/diffusion.png" alt="Logo" width="200"/>
+</p>
+
 ---
 
 ## Table of Contents
