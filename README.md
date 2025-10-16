@@ -4,7 +4,7 @@ Projects developed during Graph Learning courses.
 This repository demonstrates applications of various graph algorithms and learning methods, such as graph embeddings, diffusion processes, graph neural networks (GNNs), clustering on graphs, PageRank, and graph energy concepts.
 
 <p align="center">
-  <img src="imageFolder/diffusion.png" alt="Logo" width="200"/>
+  <img src="imageFolder/diffusion.png" alt="Logo" width="500"/>
 </p>
 
 ---
@@ -126,8 +126,21 @@ You may expand this as new notebooks are added.
 
 Inside each notebook you’ll find:
 
-- Graph visualizations (nodes, edges, partitions)  
-- Embedding plots (2D / 3D projections)  
+- Graph visualizations (nodes, edges, partitions)
+
+<p align="center">
+<img src="imageFolder/GNN_1.png" alt="Logo" width="300"/>
+<img src="imageFolder/GNN_2.png" alt="Logo" width="300"/>
+</p>
+
+- Embedding plots (2D / 3D projections)
+
+<p align="center">
+<img src="imageFolder/Embedding_1.png" alt="Logo" width="300"/>
+<img src="imageFolder/Embedding_2.png" alt="Logo" width="300"/>
+<img src="imageFolder/Embedding_3.png" alt="Logo" width="300"/>
+</p>
+
 - Performance metrics (classification accuracy, clustering scores)  
 - Comparison tables across algorithms  
 
