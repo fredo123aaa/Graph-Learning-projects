@@ -160,9 +160,4 @@ Please ensure your notebooks run end-to-end and include explanations/comments fo
 
 ## License
 
-Specify the license under which this work is shared (e.g. MIT, Apache 2.0).  
-If you already have a `LICENSE` file, you can reference it here:
-
-```
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
-```
